@@ -1,0 +1,13 @@
+{
+  "name": "html-css-js-portfolio-main",
+  "version": "1.0.0",
+  "description": "",
+  "default": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Aaron Ramos",
+  "license": "ISC"
+}
